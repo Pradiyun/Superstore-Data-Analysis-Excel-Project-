@@ -5,18 +5,18 @@ Project Title: Superstore<br>
 Level: Beginner<br>
 Database:Superstore_Project.xlsx<br>
 
-This project is based on the **Superstore dataset** and was completed in **Microsoft Excel**.  
+This project is based on the Superstore dataset and was completed in Microsoft Excel.  
 The main goal was to clean, organize, and analyze the data to answer key business questions such as monthly sales performance, top-performing states, and sales distribution by gender.
  and to create an interactive dashboard for business insights.<br>
 
 🎯 Objective<br>
 The objective of this project is to analyze Superstore sales data using Microsoft Excel in order to gain valuable business insights.  
 The focus areas of the analysis are:
-- Identifying **month-wise sales trends**  
-- Finding the **top 5 states contributing to sales**  
-- Comparing **sales performance between men and women** customers  
+- Identifying month-wise sales trends  
+- Finding the top 5 states contributing to sales 
+- Comparing sales performance between men and women customers  
 
-This project demonstrates skills in **data cleaning, pivot tables, and data visualization** to answer real business questions.<br>
+This project demonstrates skills in data cleaning, pivot tables, and data visualization to answer real business questions.<br>
 
 
 📊 Dashboard
